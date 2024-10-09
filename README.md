@@ -16,10 +16,18 @@ Esta é uma API que contém apenas testes da API governamental VIA CEP, ela real
 ## Instalação 📩
 1. Copie o repositório
 ```bash
-git clone https://github.com/usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/guibassauro/ViaCepTest
+cd ViaCepApi
 ```
 
-2. Abra a pasta de testes
+2. Abra a pasta de testes na sua IDE
 
-3.  Execute-os
+3. Execute-os
+
+## Desenvolvido com 🛠️
+- Visual Studio Code
+
+## Autores ✒️
+- Guilherme A. Barbian
+
+##
