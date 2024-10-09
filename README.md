@@ -18,3 +18,8 @@ Esta é uma API que contém apenas testes da API governamental VIA CEP, ela real
 ```bash
 git clone https://github.com/usuario/nome-do-repositorio.git
 cd nome-do-repositorio
+```
+
+2. Abra a pasta de testes
+
+3.  Execute-os
