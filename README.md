@@ -5,7 +5,7 @@ Esta é uma API que contém apenas testes da API governamental VIA CEP, ela real
 
 ## Tecnologias utilizadas 🖥️
 - Java 21
--  Maven
+- Maven
 - JUnit 5
 - REST Assured
 
@@ -30,4 +30,3 @@ cd ViaCepApi
 ## Autores ✒️
 - Guilherme A. Barbian
 
-##
